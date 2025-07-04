@@ -1,5 +1,5 @@
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 - **Rust** (main)
 - Java
 - C#
@@ -7,6 +7,6 @@
 
 ---
 
-### 🎮 Focus Areas
+### Focus Areas
 - **Game Development & Modding**
 - Building creative tools for learning and personal use
